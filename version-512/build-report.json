@@ -1,0 +1,10 @@
+{
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "html_page_count": 2014,
+  "category_count": 10,
+  "category_card_coverage": 2000,
+  "category_movie_coverage": 2000,
+  "missing_baidu_pages": [],
+  "missing_detail_pages": []
+}
